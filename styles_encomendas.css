@@ -1,0 +1,398 @@
+.e9_59 { 
+	overflow:hidden;
+}
+.e9_59 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1460px;
+	height:1735px;
+	position:absolute;
+}
+.e9_60 { 
+	width:1452px;
+	height:1573px;
+	position:absolute;
+	left:-12px;
+	top:-26px;
+}
+.e9_61 { 
+	background-color:rgba(227.00000166893005, 99.00000169873238, 116.00000068545341, 1);
+	width:1440px;
+	height:64px;
+	position:absolute;
+	left:0px;
+	top:248px;
+}
+.e9_61 { 
+	border:6px solid rgba(244.0000006556511, 198.00000339746475, 75.00000312924385, 1);
+}
+.e9_62 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:223px;
+	position:absolute;
+	left:12px;
+	top:25px;
+}
+.e9_63 { 
+	width:275px;
+	height:248px;
+	position:absolute;
+	left:582px;
+	top:0px;
+	background-image:url(images/logo_doce_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.home { 
+	color:rgba(0, 0, 0, 1);
+	width:72px;
+	height:27px;
+	position:absolute;
+	left:54px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.localizaçao { 
+	color:rgba(0, 0, 0, 1);
+	width:167px;
+	height:29px;
+	position:absolute;
+	left:720px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.promoçoes { 
+	color:rgba(0, 0, 0, 1);
+	width:154px;
+	height:29px;
+	position:absolute;
+	left:490px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.fale_conosco { 
+	color:rgba(0, 0, 0, 1);
+	width:186px;
+	height:29px;
+	position:absolute;
+	left:1209px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_68 { 
+	width:170px;
+	height:34px;
+	position:absolute;
+	left:963px;
+	top:263px;
+}
+.carrinho { 
+	color:rgba(0, 0, 0, 1);
+	width:125px;
+	height:29px;
+	position:absolute;
+	left:0px;
+	top:2px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_70 { 
+	width:32px;
+	height:32px;
+	position:absolute;
+	left:138px;
+	top:0px;
+	background-image:url(images/carrinho_logo_2_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_71 { 
+	color:rgba(0, 0, 0, 1);
+	width:170px;
+	height:29px;
+	position:absolute;
+	left:226px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_72 { 
+	background-color:rgba(227.00000166893005, 99.00000169873238, 116.00000068545341, 1);
+	width:1418px;
+	height:1223px;
+	position:absolute;
+	left:12px;
+	top:350px;
+	border-top-left-radius:141px;
+	border-top-right-radius:141px;
+	border-bottom-left-radius:141px;
+	border-bottom-right-radius:141px;
+}
+.e9_72 { 
+	border:10px solid rgba(246.0000005364418, 205.00000298023224, 98.00000175833702, 1);
+}
+.e21_36 { 
+	width:167px;
+	height:167px;
+	position:absolute;
+	left:797px;
+	top:651px;
+	border-top-left-radius:39px;
+	border-top-right-radius:39px;
+	border-bottom-left-radius:39px;
+	border-bottom-right-radius:39px;
+	background-image:url(images/brigadeiro_gourmet_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e19_19 { 
+	color:rgba(255, 255, 255, 1);
+	width:1216px;
+	height:144px;
+	position:absolute;
+	left:108px;
+	top:1142px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e20_35 { 
+	color:rgba(255, 255, 255, 1);
+	width:770px;
+	height:58px;
+	position:absolute;
+	left:324px;
+	top:426px;
+	font-family:Inter;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e19_20 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.5);
+	color:rgba(0, 0, 0, 1);
+	width:372px;
+	height:58px;
+	position:absolute;
+	left:516px;
+	top:1360px;
+	font-family:Inter;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e19_21 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
+	width:305px;
+	height:406px;
+	position:absolute;
+	left:78px;
+	top:602px;
+	border-top-left-radius:36px;
+	border-top-right-radius:36px;
+	border-bottom-left-radius:36px;
+	border-bottom-right-radius:36px;
+}
+.e19_21 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e19_22 { 
+	color:rgba(255, 255, 255, 1);
+	width:233px;
+	height:58px;
+	position:absolute;
+	left:114px;
+	top:805px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e19_23 { 
+	color:rgba(0, 0, 0, 1);
+	width:109px;
+	height:29px;
+	position:absolute;
+	left:177px;
+	top:901px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e20_25 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
+	width:305px;
+	height:406px;
+	position:absolute;
+	left:397px;
+	top:602px;
+	border-top-left-radius:36px;
+	border-top-right-radius:36px;
+	border-bottom-left-radius:36px;
+	border-bottom-right-radius:36px;
+}
+.e20_25 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e20_26 { 
+	color:rgba(255, 255, 255, 1);
+	width:227px;
+	height:29px;
+	position:absolute;
+	left:433px;
+	top:822px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e20_28 { 
+	width:233px;
+	height:148px;
+	position:absolute;
+	left:433px;
+	top:625px;
+	border-top-left-radius:39px;
+	border-top-right-radius:39px;
+	border-bottom-left-radius:39px;
+	border-bottom-right-radius:39px;
+	background-image:url(images/panetone_trufado_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e20_27 { 
+	color:rgba(0, 0, 0, 1);
+	width:106px;
+	height:29px;
+	position:absolute;
+	left:496px;
+	top:901px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e20_29 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
+	width:305px;
+	height:406px;
+	position:absolute;
+	left:716px;
+	top:602px;
+	border-top-left-radius:36px;
+	border-top-right-radius:36px;
+	border-bottom-left-radius:36px;
+	border-bottom-right-radius:36px;
+}
+.e20_29 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e20_30 { 
+	color:rgba(255, 255, 255, 1);
+	width:231px;
+	height:58px;
+	position:absolute;
+	left:752px;
+	top:822px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e20_31 { 
+	color:rgba(0, 0, 0, 1);
+	width:108px;
+	height:29px;
+	position:absolute;
+	left:815px;
+	top:901px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e20_32 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
+	width:305px;
+	height:406px;
+	position:absolute;
+	left:1035px;
+	top:602px;
+	border-top-left-radius:36px;
+	border-top-right-radius:36px;
+	border-bottom-left-radius:36px;
+	border-bottom-right-radius:36px;
+}
+.e20_32 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e20_33 { 
+	color:rgba(255, 255, 255, 1);
+	width:220px;
+	height:58px;
+	position:absolute;
+	left:1078px;
+	top:822px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e21_37 { 
+	width:190px;
+	height:137px;
+	position:absolute;
+	left:1093px;
+	top:640px;
+	border-top-left-radius:39px;
+	border-top-right-radius:39px;
+	border-bottom-left-radius:39px;
+	border-bottom-right-radius:39px;
+	background-image:url(images/bolo_de_brigadeiro_gormet_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e20_34 { 
+	color:rgba(0, 0, 0, 1);
+	width:108px;
+	height:29px;
+	position:absolute;
+	left:1134px;
+	top:901px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e19_24 { 
+	width:205px;
+	height:136px;
+	position:absolute;
+	left:128px;
+	top:631px;
+	border-top-left-radius:39px;
+	border-top-right-radius:39px;
+	border-bottom-left-radius:39px;
+	border-bottom-right-radius:39px;
+	background-image:url(images/ovo_trufado_de_prestigio_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

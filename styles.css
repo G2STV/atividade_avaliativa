@@ -1,33 +1,39 @@
-.1_2 { 
+.e1_2 { 
 	overflow:hidden;
-}.e1_2 { 
+}
+.e1_2 { 
 	background-color:rgba(255, 255, 255, 1);
-	width:1440px;
+	width:1460px;
 	height:1735px;
-	position:absolute;
-}.e9_16 { 
+	position:relative;
+}
+.e9_16 { 
 	width:1440px;
 	height:1573px;
 	position:absolute;
 	left:0px;
 	top:-25px;
-}.e2_4 { 
+}
+.e2_4 { 
 	background-color:rgba(227.00000166893005, 99.00000169873238, 116.00000068545341, 1);
 	width:1440px;
 	height:64px;
 	position:absolute;
 	left:0px;
 	top:248px;
-}.2_4 { 
+}
+.e2_4 { 
 	border:6px solid rgba(244.0000006556511, 198.00000339746475, 75.00000312924385, 1);
-}.e2_5 { 
+}
+.e2_5 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:1440px;
 	height:223px;
 	position:absolute;
 	left:0px;
 	top:25px;
-}.e2_3 { 
+}
+.e2_3 { 
 	width:275px;
 	height:248px;
 	position:absolute;
@@ -36,7 +42,8 @@
 	background-image:url(images/logo_doce_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e2_8 { 
+}
+.home { 
 	color:rgba(0, 0, 0, 1);
 	width:72px;
 	height:27px;
@@ -47,7 +54,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e2_22 { 
+}
+.localizaçao { 
 	color:rgba(0, 0, 0, 1);
 	width:167px;
 	height:29px;
@@ -58,7 +66,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e2_24 { 
+}
+.promoçoes { 
 	color:rgba(0, 0, 0, 1);
 	width:154px;
 	height:29px;
@@ -69,7 +78,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e2_23 { 
+}
+.fale_conosco { 
 	color:rgba(0, 0, 0, 1);
 	width:186px;
 	height:29px;
@@ -80,13 +90,15 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e2_17 { 
+}
+.e2_17 { 
 	width:170px;
 	height:34px;
 	position:absolute;
 	left:951px;
 	top:263px;
-}.e2_9 { 
+}
+.carrinho { 
 	color:rgba(0, 0, 0, 1);
 	width:125px;
 	height:29px;
@@ -97,7 +109,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e2_15 { 
+}
+.e2_15 { 
 	width:32px;
 	height:32px;
 	position:absolute;
@@ -106,7 +119,8 @@
 	background-image:url(images/carrinho_logo_2_removebg_preview_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e2_41 { 
+}
+.e2_41 { 
 	background-color:rgba(227.00000166893005, 99.00000169873238, 116.00000068545341, 1);
 	width:1418px;
 	height:1223px;
@@ -117,9 +131,11 @@
 	border-top-right-radius:141px;
 	border-bottom-left-radius:141px;
 	border-bottom-right-radius:141px;
-}.2_41 { 
+}
+.e2_41 { 
 	border:10px solid rgba(246.0000005364418, 205.00000298023224, 98.00000175833702, 1);
-}.e9_74 { 
+}
+.e9_74 { 
 	color:rgba(0, 0, 0, 1);
 	width:108px;
 	height:29px;
@@ -130,7 +146,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e9_75 { 
+}
+.e9_75 { 
 	color:rgba(0, 0, 0, 1);
 	width:138px;
 	height:29px;
@@ -141,7 +158,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e9_78 { 
+}
+.e9_78 { 
 	color:rgba(0, 0, 0, 1);
 	width:155px;
 	height:29px;
@@ -152,7 +170,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e9_76 { 
+}
+.e9_76 { 
 	color:rgba(0, 0, 0, 1);
 	width:104px;
 	height:29px;
@@ -163,7 +182,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e6_10 { 
+}
+.e6_10 { 
 	color:rgba(0, 0, 0, 1);
 	width:108px;
 	height:29px;
@@ -174,7 +194,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e6_9 { 
+}
+.e6_9 { 
 	color:rgba(255, 255, 255, 1);
 	width:228px;
 	height:29px;
@@ -185,7 +206,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e4_7 { 
+}
+.e4_7 { 
 	color:rgba(255, 255, 255, 1);
 	width:219px;
 	height:58px;
@@ -196,7 +218,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e4_6 { 
+}
+.e4_6 { 
 	color:rgba(255, 255, 255, 1);
 	width:296px;
 	height:29px;
@@ -207,7 +230,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e4_5 { 
+}
+.e4_5 { 
 	color:rgba(255, 255, 255, 1);
 	width:255px;
 	height:29px;
@@ -218,7 +242,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e4_4 { 
+}
+.e4_4 { 
 	color:rgba(255, 255, 255, 1);
 	width:109px;
 	height:29px;
@@ -229,7 +254,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e4_3 { 
+}
+.e4_3 { 
 	color:rgba(0, 0, 0, 1);
 	width:108px;
 	height:29px;
@@ -240,7 +266,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e2_18 { 
+}
+.encomendas { 
 	color:rgba(0, 0, 0, 1);
 	width:170px;
 	height:29px;
@@ -251,7 +278,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e2_26 { 
+}
+.e2_26 { 
 	background-color:rgba(91.00000217556953, 40.00000141561031, 34.00000177323818, 1);
 	width:258px;
 	height:87px;
@@ -262,7 +290,8 @@
 	border-top-right-radius:20px;
 	border-bottom-left-radius:20px;
 	border-bottom-right-radius:20px;
-}.e2_32 { 
+}
+.e2_32 { 
 	background-color:rgba(91.00000217556953, 40.00000141561031, 34.00000177323818, 1);
 	width:258px;
 	height:71px;
@@ -273,14 +302,16 @@
 	border-top-right-radius:20px;
 	border-bottom-left-radius:20px;
 	border-bottom-right-radius:20px;
-}.e2_25 { 
+}
+.e2_25 { 
 	background-color:rgba(186.0000041127205, 93.00000205636024, 54.00000058114529, 1);
 	width:249px;
 	height:303px;
 	position:absolute;
 	left:81px;
 	top:474px;
-}.e2_28 { 
+}
+.e2_28 { 
 	color:rgba(255, 255, 255, 1);
 	width:124px;
 	height:44px;
@@ -291,7 +322,8 @@
 	text-align:center;
 	font-size:36px;
 	letter-spacing:0;
-}.e2_29 { 
+}
+.e2_29 { 
 	color:rgba(255, 255, 255, 1);
 	width:243px;
 	height:44px;
@@ -302,7 +334,8 @@
 	text-align:center;
 	font-size:36px;
 	letter-spacing:0;
-}.e2_30 { 
+}
+.e2_30 { 
 	color:rgba(255, 255, 255, 1);
 	width:150px;
 	height:44px;
@@ -313,7 +346,8 @@
 	text-align:center;
 	font-size:36px;
 	letter-spacing:0;
-}.e2_21 { 
+}
+.e2_21 { 
 	color:rgba(255, 255, 255, 1);
 	width:181px;
 	height:47px;
@@ -324,7 +358,8 @@
 	text-align:center;
 	font-size:32px;
 	letter-spacing:0;
-}.e2_27 { 
+}
+.e2_27 { 
 	color:rgba(255, 255, 255, 1);
 	width:121px;
 	height:44px;
@@ -335,7 +370,8 @@
 	text-align:center;
 	font-size:36px;
 	letter-spacing:0;
-}.e2_31 { 
+}
+.e2_31 { 
 	color:rgba(255, 255, 255, 1);
 	width:252px;
 	height:44px;
@@ -346,7 +382,8 @@
 	text-align:center;
 	font-size:36px;
 	letter-spacing:0;
-}.e2_37 { 
+}
+.e2_37 { 
 	width:180px;
 	height:184px;
 	position:absolute;
@@ -359,7 +396,8 @@
 	background-image:url(images/bolo_inteiro.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e2_38 { 
+}
+.e2_38 { 
 	width:306px;
 	height:184px;
 	position:absolute;
@@ -372,7 +410,8 @@
 	background-image:url(images/bolo_de_morango.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e2_39 { 
+}
+.e2_39 { 
 	width:223px;
 	height:194px;
 	position:absolute;
@@ -385,7 +424,8 @@
 	background-image:url(images/capcake_2_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e3_42 { 
+}
+.e3_42 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:270px;
 	height:406px;
@@ -396,9 +436,11 @@
 	border-top-right-radius:36px;
 	border-bottom-left-radius:36px;
 	border-bottom-right-radius:36px;
-}.3_42 { 
+}
+.e3_42 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e3_43 { 
+}
+.e3_43 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:416px;
 	height:406px;
@@ -409,9 +451,11 @@
 	border-top-right-radius:36px;
 	border-bottom-left-radius:36px;
 	border-bottom-right-radius:36px;
-}.3_43 { 
+}
+.e3_43 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e3_44 { 
+}
+.e3_44 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:305px;
 	height:406px;
@@ -422,9 +466,11 @@
 	border-top-right-radius:36px;
 	border-bottom-left-radius:36px;
 	border-bottom-right-radius:36px;
-}.3_44 { 
+}
+.e3_44 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e3_45 { 
+}
+.e3_45 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:270px;
 	height:446px;
@@ -435,9 +481,11 @@
 	border-top-right-radius:32px;
 	border-bottom-left-radius:32px;
 	border-bottom-right-radius:32px;
-}.3_45 { 
+}
+.e3_45 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e3_46 { 
+}
+.e3_46 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:419px;
 	height:448px;
@@ -448,16 +496,19 @@
 	border-top-right-radius:32px;
 	border-bottom-left-radius:32px;
 	border-bottom-right-radius:32px;
-}.3_46 { 
+}
+.e3_46 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e3_47 { 
+}
+.e3_47 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:345px;
 	height:448px;
 	position:absolute;
 	left:1060px;
 	top:851px;
-}.e3_48 { 
+}
+.e3_48 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:347px;
 	height:449px;
@@ -468,9 +519,11 @@
 	border-top-right-radius:32px;
 	border-bottom-left-radius:32px;
 	border-bottom-right-radius:32px;
-}.3_48 { 
+}
+.e3_48 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e4_2 { 
+}
+.e4_2 { 
 	color:rgba(255, 255, 255, 1);
 	width:197px;
 	height:29px;
@@ -481,7 +534,8 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e6_8 { 
+}
+.e6_8 { 
 	width:285px;
 	height:168px;
 	position:absolute;
@@ -494,7 +548,8 @@
 	background-image:url(images/musse_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e2_33 { 
+}
+.e2_33 { 
 	width:184px;
 	height:184px;
 	position:absolute;
@@ -507,7 +562,8 @@
 	background-image:url(images/fc55084a241f6619f07b9386a099aa0b.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e2_34 { 
+}
+.e2_34 { 
 	width:314px;
 	height:184px;
 	position:absolute;
@@ -520,7 +576,8 @@
 	background-image:url(images/sorvete_confeitaria.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e9_73 { 
+}
+.e9_73 { 
 	color:rgba(0, 0, 0, 1);
 	width:108px;
 	height:29px;
@@ -531,4 +588,4 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}
+}

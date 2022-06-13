@@ -1,0 +1,159 @@
+.e9_45 { 
+	overflow:hidden;
+}
+.e9_45 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1460px;
+	height:1735px;
+	position:absolute;
+}
+.e9_46 { 
+	width:1440px;
+	height:1573px;
+	position:absolute;
+	left:0px;
+	top:-25px;
+}
+.e9_47 { 
+	background-color:rgba(227.00000166893005, 99.00000169873238, 116.00000068545341, 1);
+	width:1440px;
+	height:64px;
+	position:absolute;
+	left:0px;
+	top:248px;
+}
+.e9_47 { 
+	border:6px solid rgba(244.0000006556511, 198.00000339746475, 75.00000312924385, 1);
+}
+.e9_48 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:223px;
+	position:absolute;
+	left:0px;
+	top:25px;
+}
+.e9_49 { 
+	width:275px;
+	height:248px;
+	position:absolute;
+	left:582px;
+	top:0px;
+	background-image:url(images/logo_doce_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.home { 
+	color:rgba(0, 0, 0, 1);
+	width:72px;
+	height:27px;
+	position:absolute;
+	left:42px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.localizaçao { 
+	color:rgba(0, 0, 0, 1);
+	width:167px;
+	height:29px;
+	position:absolute;
+	left:708px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.promoçoes { 
+	color:rgba(0, 0, 0, 1);
+	width:154px;
+	height:29px;
+	position:absolute;
+	left:478px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.fale_conosco { 
+	color:rgba(0, 0, 0, 1);
+	width:186px;
+	height:29px;
+	position:absolute;
+	left:1197px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_54 { 
+	width:170px;
+	height:34px;
+	position:absolute;
+	left:951px;
+	top:263px;
+}
+.carrinho { 
+	color:rgba(0, 0, 0, 1);
+	width:125px;
+	height:29px;
+	position:absolute;
+	left:0px;
+	top:2px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_56 { 
+	width:32px;
+	height:32px;
+	position:absolute;
+	left:138px;
+	top:0px;
+	background-image:url(images/carrinho_logo_2_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.encomendas { 
+	color:rgba(0, 0, 0, 1);
+	width:170px;
+	height:29px;
+	position:absolute;
+	left:214px;
+	top:269px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_58 { 
+	background-color:rgba(227.00000166893005, 99.00000169873238, 116.00000068545341, 1);
+	width:1418px;
+	height:1223px;
+	position:absolute;
+	left:12px;
+	top:350px;
+	border-top-left-radius:141px;
+	border-top-right-radius:141px;
+	border-bottom-left-radius:141px;
+	border-bottom-right-radius:141px;
+}
+.e9_58 { 
+	border:10px solid rgba(246.0000005364418, 205.00000298023224, 98.00000175833702, 1);
+}
+.e16_16 { 
+	width:1267px;
+	height:584px;
+	position:absolute;
+	left:87px;
+	top:670px;
+	background-image:url(images/em_construcao1_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
